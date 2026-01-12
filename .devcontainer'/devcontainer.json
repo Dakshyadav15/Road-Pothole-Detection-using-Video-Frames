@@ -2,7 +2,7 @@
     "name": "Pothole Detection & Library Project",
     "image": "mcr.microsoft.com/devcontainers/python:3.10",
     "features": {
-        "ghcr.io/devcontainers/features/nvidia-cuda:1": {}
+        "ghcr.io/devcontainers/features/nvidia-cuda:2.0.0": {}
     },
     "customizations": {
         "vscode": {
