@@ -15,5 +15,5 @@
             ]
         }
     },
-    "postCreateCommand": "pip install ultralytics opencv-python-headless psycopg2-binary pandas"
+    "postCreateCommand": "pip install -r requirements.txt"
 }
