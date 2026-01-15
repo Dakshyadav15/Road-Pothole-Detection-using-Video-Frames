@@ -1,0 +1,6 @@
+ultralytics
+roboflow
+python-dotenv
+psycopg2-binary
+pandas
+matplotlib
