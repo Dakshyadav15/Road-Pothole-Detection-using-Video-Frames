@@ -2,7 +2,7 @@ from roboflow import Roboflow
 import os
 
 # 1. Initialize with your key
-rf = Roboflow(api_key="94ux6QIXWE5JJILBCx6L")
+rf = Roboflow(api_key="yourapikey")
 
 # 2. Access the RDD2022 India project
 # Workspace: prakhar-kpb1v, Project: rdd2022-india-il8ju
